@@ -109,7 +109,7 @@ python src/analysis.py
 - The cleaned dataset covers April 2021 through March 2026 and supports 60 monthly observations.
 - Average monthly S&P 500 return is positive in most full years, with 2022 and 2026 showing negative average monthly performance.
 - Rising Fed Funds regimes produced lower average monthly S&P 500 returns (~0.52%) than falling or flat rate regimes (0.99% and 1.04%, respectively).
-- Low volatility months generated the strongest average monthly returns (~2.32%), while high volatility months delivered negative average returns (~-3.54%).
+- Low volatility months generated the strongest average monthly returns (about 2.32%), while high volatility months delivered negative average returns (about -3.54%).
 
 ## Chart Preview
 ![S&P 500 monthly close](output/charts/sp500_over_time.png)
